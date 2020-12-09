@@ -1,4 +1,4 @@
-## Bienvenidos a los diferentes tipos de Especies de Plantas
+## Bienvenidos a la pagina del proyecto de Especies de Planta
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -64,6 +64,4 @@
   agent-id="12a95ba9-b3a2-40e4-a5d8-adf72f2da0c0"
   language-code="es"
 ></df-messenger>
-
-
 
